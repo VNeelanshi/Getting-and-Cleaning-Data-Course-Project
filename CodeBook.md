@@ -1,3 +1,4 @@
+# This file contains information about the dataset (.txt file)
 >* x_train, x_test, y_train, y_test are the training and test samples loaded from the files.
 >* subject_train and subject_test contain the subjects that are trained.
 >* x and y contain the merged datasets of [x_train, x_test] and [y_train,y_test] respectively.
